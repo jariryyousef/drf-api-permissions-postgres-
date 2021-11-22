@@ -1,1 +1,1 @@
-https://github.com/jariryyousef/drf-api-permissions-postgres-/pull/1
+https://github.com/jariryyousef/drf-api-permissions-postgres-/pull/1 
